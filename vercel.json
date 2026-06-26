@@ -1,0 +1,18 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "routes": [
+    { "src": "/", "dest": "/index.html" },
+    { "src": "/overview", "dest": "/overview.html" },
+    { "src": "/nautico", "dest": "/nautico-dashboard-final.html" },
+    { "src": "/abc", "dest": "/abc-dashboard.html" },
+    { "src": "/abc-exclusivo", "dest": "/abc-exclusivo.html" },
+    { "src": "/avai", "dest": "/avai-dashboard.html" },
+    { "src": "/america", "dest": "/america-dashboard.html" },
+    { "src": "/confianca", "dest": "/confianca-dashboard.html" },
+    { "src": "/ponte", "dest": "/ponte-dashboard.html" },
+    { "src": "/sampaio", "dest": "/sampaio-dashboard.html" },
+    { "src": "/santacruz", "dest": "/santacruz-dashboard.html" },
+    { "src": "/sergipe", "dest": "/sergipe-dashboard.html" }
+  ]
+}
